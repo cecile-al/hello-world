@@ -33,6 +33,8 @@ github_username:  jekyll
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+logo: "/assets/images/memo-bank-logo-black"
+color_scheme: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
