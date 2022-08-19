@@ -31,8 +31,7 @@ github_username:  jekyll
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-feed
+plugins:  - jekyll-feed
 logo: /assets/images/memo-bank-logo-black
 color_scheme: memo-bank
 
